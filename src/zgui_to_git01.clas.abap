@@ -21,5 +21,6 @@ CLASS ZGUI_TO_GIT01 IMPLEMENTATION.
 
 
   method ADD_INT.
+    lv_c = lv_a + lv_b .
   endmethod.
 ENDCLASS.
